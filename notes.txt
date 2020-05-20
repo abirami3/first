@@ -66,5 +66,7 @@ git push origin --delete branch_name  //delete from remote
 
 git tag tag_name
 
+git push -u origin barnch_name tag_name
+
 
 
