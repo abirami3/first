@@ -37,6 +37,13 @@ git rm --cached filename -- will removed added file from staged
 
 git add *.html (Add all the html file) / . / *.* (add all the file)
 
+git commit -m ''
+
+.gitignore will ignore the file in the folder
+
+
+git branch first_branch
+
 
 
 
