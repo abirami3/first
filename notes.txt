@@ -30,5 +30,13 @@ git add - to add the file
 git remote add orgin https://github.com/abirami3/first.git
 git commit
 
+git config --global user.name ''
+git config --global user.email ''
+
+git rm --cached filename -- will removed added file from staged
+
+git add *.html (Add all the html file) / . / *.* (add all the file)
+
+
 
 
