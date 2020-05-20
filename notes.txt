@@ -48,6 +48,15 @@ git checkout master/branch_name  //chnage to nxt branch
 
 git merge branch_name -m 'message' //merge the branch
 
+git remote   // remote repositories
+
+git remote add repo_name url(github repo url)  // remote to created origin
+
+get push -u repo_name branch_name
+
+git clone clone_url
+
+git pull
 
 
 
