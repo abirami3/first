@@ -58,5 +58,13 @@ git clone clone_url
 
 git pull
 
+git push -u origin branch_name // push the barnch to remote
+
+git barnch -d barnch_name  // delete barnch from local
+
+git push origin --delete branch_name  //delete from remote
+
+git tag tag_name
+
 
 
