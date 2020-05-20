@@ -42,9 +42,11 @@ git commit -m ''
 .gitignore will ignore the file in the folder
 
 
-git branch first_branch
+git branch first_branch  // create the branch
 
-git checkout master/branch_name
+git checkout master/branch_name  //chnage to nxt branch
+
+git merge branch_name -m 'message' //merge the branch
 
 
 
