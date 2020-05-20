@@ -1,0 +1,34 @@
+Git
+
+Version control -- Maintain History
+
+pull - get local copy
+push - add the changes
+
+git add 
+git commit
+git push
+
+Git - version control system (VCS) - track the changes
+    - COllaborate in teams
+    - Distributed VCS
+    - Open Source and Free
+
+VCS - Centralized VCS    | Distributed VCS
+
+Github - upload to online repository
+       - Provide back up
+ git and github both are different
+
+GIT Comments
+
+git init - initializing
+git status - find the status
+
+git add - to add the file
+
+git remote add orgin https://github.com/abirami3/first.git
+git commit
+
+
+
